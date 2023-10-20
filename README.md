@@ -13,7 +13,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Description
-WEB application for publishing photos of pets. Users can create accounts, leave pictures of animals with descriptions, and view posts by other authors.
+To Do app. It allows you to create tasks, track their completion, mark them as completed, and leave comments.
 
 ## Installation
 
